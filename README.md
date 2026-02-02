@@ -6,14 +6,12 @@ A simple yet feature-rich **Notepad application built using Python and Tkinter**
 
 ## 🚀 Features
 
-* 📂 Open existing `.txt` files
-* 💾 Save files with **Save As** option
-* 🆕 Create a new file
-* 🌙 Dark Mode & ☀️ Light Mode
-* 🔍 Find & highlight text
-* 🔠 Increase / decrease font size
-* 🖋️ Default font style: **Georgia**
-* 📜 Vertical scrollbar for long text
+- **New File, Open, Save As**: Basic file handling.
+- **Dark/Light Mode**: Toggle between themes for comfortable editing.
+- **Font Size Changer**: Increase or decrease font size dynamically.
+- **Text Search**: Find and highlight words in your text.
+- **Scrollbar Support**: Navigate long documents easily.
+- **Georgia Font**: Default font for a clean and readable interface.
 
 ---
 
